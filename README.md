@@ -9,7 +9,7 @@ Req: {
     "Password": "Example@123",
     "Email": "example@gmail.com",
     "PhoneNo": "+15555555555"
-  },\
+  },
   "resource": "signup"
 }
 
