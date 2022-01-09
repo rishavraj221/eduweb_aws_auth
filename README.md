@@ -76,8 +76,7 @@ Req: {
 
 Res: {
   "status": "SUCCESS",
-  "message": "Forgot password verification code sent to email.",
-  "idToken": ""
+  "message": "Forgot password verification code sent to email."
 }
 </pre>
 ## newPassword
